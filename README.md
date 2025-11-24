@@ -8,6 +8,6 @@
 ![William's GitHub Statistics](https://raw.githubusercontent.com/william2809/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ![Languages Used (By File Size)](https://raw.githubusercontent.com/william2809/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![Languages Used (By File Size)](https://raw.githubusercontent.comwilliam2809/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![Languages Used (By File Size)](https://raw.githubusercontent.com/william2809/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
