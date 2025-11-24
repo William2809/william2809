@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello! I'm William Huang
 
-<!--
-**William2809/william2809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Currently building projects and stuffs
 
-Here are some ideas to get you started:
+### 🔥 My Stats (includes private repos)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![William's GitHub Statistics](https://raw.githubusercontent.com/william2809/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![William's GitHub Statistics](https://raw.githubusercontent.com/william2809/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![Languages Used (By File Size)](https://raw.githubusercontent.com/william2809/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Languages Used (By File Size)](https://raw.githubusercontent.comwilliam2809/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+
